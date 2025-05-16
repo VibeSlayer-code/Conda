@@ -1,4 +1,6 @@
 # Konda
+![Konda Logo](assets/logo.png)
+
 
 Konda is a simple, beginner-friendly interpreted language designed for quick scripting and learning programming fundamentals.  
 It supports basic variable management, arithmetic operations, input handling, conditional execution, and console output.
