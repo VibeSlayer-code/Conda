@@ -1,10 +1,10 @@
-# Conda
+# Konda
 
-Conda is a simple, beginner-friendly interpreted language designed for quick scripting and learning programming fundamentals.  
+Konda is a simple, beginner-friendly interpreted language designed for quick scripting and learning programming fundamentals.  
 It supports basic variable management, arithmetic operations, input handling, conditional execution, and console output.
 
-Built for simplicity and ease of use, Conda offers a minimal yet powerful command set ideal for educational projects and rapid prototyping.
-I have built the Conda Interpreter from scratch. Libs used- sys
+Built for simplicity and ease of use, Konda offers a minimal yet powerful command set ideal for educational projects and rapid prototyping.
+I have built the Konda Interpreter from scratch. Libs used- sys
 
 ---
 
@@ -18,22 +18,22 @@ I have built the Conda Interpreter from scratch. Libs used- sys
 
 ---
 
-⚠️ **Note:** Conda is currently under development. More features and improvements are coming soon!
+⚠️ **Note:** Konda is currently under development. More features and improvements are coming soon!
 
 ---
 
-🚀 Conda is **fully open source**! Feel free to explore, contribute, and make it better.
+🚀 Konda is **fully open source**! Feel free to explore, contribute, and make it better.
 
 ---
 
-Start experimenting with Conda today for a straightforward and fun coding experience!
+Start experimenting with Konda today for a straightforward and fun coding experience!
 
 ---
 
 ## Example Session!
 
 ```plaintext
-Welcome to Conda REPL! Type 'exit;' to quit.
+Welcome to Konda REPL! Type 'exit;' to quit.
 >>> console.say "Hello world!"
 Hello world!
 >>> set x = 10
