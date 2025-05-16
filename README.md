@@ -1,4 +1,4 @@
-## Konda
+## Konda🗻
 <p align="center">
   <img src="assets/logo.png.png" alt="Konda Logo" width="450"/>
 </p>
