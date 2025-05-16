@@ -4,7 +4,7 @@ Conda is a simple, beginner-friendly interpreted language designed for quick scr
 It supports basic variable management, arithmetic operations, input handling, conditional execution, and console output.
 
 Built for simplicity and ease of use, Conda offers a minimal yet powerful command set ideal for educational projects and rapid prototyping.
-I have added a txt file in which I have putten example codes for your need!!
+I have built the Conda Interpreter from scratch. Libs used- sys
 
 ---
 
