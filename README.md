@@ -34,7 +34,7 @@ Start experimenting with Conda today for a straightforward and fun coding experi
 
 ```plaintext
 Welcome to Conda REPL! Type 'exit;' to quit.
->>> console.say "Hello world!";
+>>> console.say "Hello world!"
 Hello world!
 >>> set x = 10
 >>> console.say x
