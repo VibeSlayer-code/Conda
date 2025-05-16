@@ -27,3 +27,40 @@ I have added a txt file in which I have putten example codes for your need!!
 ---
 
 Start experimenting with Conda today for a straightforward and fun coding experience!
+
+---
+
+## Example Session!
+
+```plaintext
+Welcome to Conda REPL! Type 'exit;' to quit.
+>>> console.say "Hello world!";
+Hello world!
+>>> set x = 10
+>>> console.say x
+10
+>>> add x 5
+>>> console.say x
+15
+>>> sub x 3
+>>> console.say x
+12
+>>> mul x 2
+>>> console.say x
+24
+>>> div x 4
+>>> console.say x
+6.0
+>>> input y
+Input for y: 20
+>>> console.say y
+20
+>>> if x > 5 then console.say "x is greater than 5" end
+x is greater than 5
+>>> if y == 20 then console.say x end
+6.0
+>>> if y != 10 then add x 10 end
+>>> console.say x
+16.0
+>>> exit;
+Goodbye!
