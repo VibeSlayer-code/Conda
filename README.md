@@ -1,5 +1,7 @@
 # Konda
-![Konda Logo](assets/logo.png.png)
+<p align="center">
+  <img src="assets/logo.png" alt="Konda Logo" width="250"/>
+</p>
 
 
 Konda is a simple, beginner-friendly interpreted language designed for quick scripting and learning programming fundamentals.  
