@@ -4,7 +4,7 @@
 </p>
 
 
- Derived from the Telugu word "Konda" "కొండ" meaning huge big mountains. Konda is a simple, beginner-friendly interpreted language designed for quick scripting and learning programming fundamentals.  
+ Derived from the Telugu word "Konda" "కొండ" meaning huge big mountains. Konda is a simple, beginner-friendly interpreted language designed for quick scripting, It helps bulding basic coding mindset and fundamentals so that you can learn more langauges in future!.  
 It supports basic variable management, arithmetic operations, input handling, conditional execution, and console output. I have putten the new version changelog in the interpreter itself.
 
 Built for simplicity and ease of use, Konda offers a minimal yet powerful command set ideal for educational projects and rapid prototyping.
